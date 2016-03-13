@@ -1,6 +1,6 @@
 
 This is a demo repository.
-Doispiję coś więcej......
+Dopisuję coś więcej......
 
 ***
 
