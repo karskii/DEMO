@@ -5,6 +5,7 @@ Wstep
 Methods
 
 3. Results
+<<<<<<< HEAD
 Cos wyszlo
 
 4. Dyskusja
@@ -12,3 +13,8 @@ Szczegółowa dyskusja
 
 5. Refs
 I referencje też
+=======
+OK, tym razem dokladny
+    ... szczegolowy
+         ... opis
+>>>>>>> Wyniki
